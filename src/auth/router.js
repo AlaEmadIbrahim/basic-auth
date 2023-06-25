@@ -1,8 +1,8 @@
 "use strict";
 
 const bcrypt = require("bcrypt");
-const userRouter = express.Router();
 const express = require("express");
+const userRouter = express.Router();
 const { Users } = require("../auth/models/index");
 const basicAuthentication = require("../auth/middleware/basic");
 
