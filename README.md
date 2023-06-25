@@ -1,4 +1,4 @@
 # basic-auth
 
 - [PR](https://github.com/AlaEmadIbrahim/basic-auth/pull/2)
-- [deploy-render](https://api-server-xqeh.onrender.com/)
+- [deploy-render-basic-auth](https://basic-auth-1gwe.onrender.com)
